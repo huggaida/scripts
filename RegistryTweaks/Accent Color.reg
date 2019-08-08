@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Accent]
+"AccentPalette"=hex:6b,6b,6b,ff,59,59,59,ff,4c,4c,4c,ff,3f,3f,3f,ff,33,33,33,\
+  ff,26,26,26,ff,14,14,14,ff,88,17,98,00
+"StartColorMenu"=dword:ff232323
+"AccentColorMenu"=dword:ff232323

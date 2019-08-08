@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\NetworkList\Profiles\{EEC38744-711F-4E6F-BDD7-294ED77B1D3D}]
+"ProfileName"="WORKGROUP312"
+"Description"="WORKGROUP312"
+"Managed"=dword:00000000
+"Category"=dword:00000000
+"DateCreated"=hex:e3,07,01,00,05,00,04,00,02,00,1a,00,01,00,27,02
+"NameType"=dword:00000047
+"DateLastConnected"=hex:e3,07,01,00,00,00,06,00,0b,00,14,00,20,00,2c,00

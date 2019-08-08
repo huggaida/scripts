@@ -1,0 +1,231 @@
+macroScript superClayMode category:"csTools"	toolTip:"SuperClayMode | SHIFT+Click to open matcap selection dialog."
+(
+	global ProgressiveRenderingStatus
+	global viewportPresetStatus
+	local viewsetting = nitrousgraphicsmanager.getactiveviewportsetting()
+	fn superClayOn = (
+		global matCapMtl
+		if matCapMtl == undefined then (
+			local matCapSfx = "SFX_WUC\n"
+			matCapSfx += "Version=28\n"
+			matCapSfx += "GroupVersion=-1.0\n"
+			matCapSfx += "Advanced=0\n"
+			matCapSfx += "HelpID=0\n"
+			matCapSfx += "ParentMaterial=0\n"
+			matCapSfx += "NumberOfNodes=4\n"
+			matCapSfx += "#NT=10100 1 Hw Material Base-Hw Shader Nodes-Core\n"
+			matCapSfx += "	PC=35\n"
+			matCapSfx += "	name=1 v=5000 _Material\n"
+			matCapSfx += "	version=1 v=2003 1.842\n"
+			matCapSfx += "	posx=1 v=2003 -38.3333\n"
+			matCapSfx += "	posy=1 v=2003 15.0\n"
+			matCapSfx += "	classname=1 v=5000 Hw Material Base\n"
+			matCapSfx += "	submenuname=1 v=5000 Core\n"
+			matCapSfx += "	bitmapnodeindex=1 v=2002 10\n"
+			matCapSfx += "	isadvanced=1 v=2001 1\n"
+			matCapSfx += "	advanceddelete=1 v=2001 1\n"
+			matCapSfx += "	helpid=1 v=2002 73\n"
+			matCapSfx += "	grpnodecolor=1 v=5012 4\n"
+			matCapSfx += "	grpPosX=1 v=2003 -1129.38\n"
+			matCapSfx += "	grpPosY=1 v=2003 -143.923\n"
+			matCapSfx += "	disableconsolidation_HwShader=2 e=1 v=2001 0\n"
+			matCapSfx += "	value_ClampDynamicLights=2 e=1 v=2002 99\n"
+			matCapSfx += "	value_MaxNumberLights=2 e=1 v=2002 1\n"
+			matCapSfx += "	value_Gamma=2 e=2 v=2001 0\n"
+			matCapSfx += "	value_Wireframe=2 e=3 v=2001 0\n"
+			matCapSfx += "	value_DepthTest=2 e=4 v=2001 1\n"
+			matCapSfx += "	value_DepthWrite=2 e=4 v=2001 1\n"
+			matCapSfx += "	value_CastShadow=2 e=5 v=2001 1\n"
+			matCapSfx += "	value_SurfaceMaskCutoff=2 e=6 v=2003 0.0\n"
+			matCapSfx += "	value_SSAO=2 e=7 v=2001 1\n"
+			matCapSfx += "	options_Tessellation=2 e=900 v=5012 0\n"
+			matCapSfx += "	value_FlatTessellationBlend=2 e=901 v=2003 0.0\n"
+			matCapSfx += "	value_BoundingBoxMultiplier=2 e=902 v=2003 1.0\n"
+			matCapSfx += "	value_ClippingBiasAdd=2 e=902 v=2003 5.0\n"
+			matCapSfx += "	options_Displacement=2 e=1000 v=5012 1\n"
+			matCapSfx += "	options_VDM_CoordSys=2 e=1001 v=5012 1\n"
+			matCapSfx += "	value_DisplacementMultiplier=2 e=1002 v=2003 1.0\n"
+			matCapSfx += "	value_DisplacementOffset=2 e=1003 v=2003 0.0\n"
+			matCapSfx += "	cgfxprofile_HwShader=2 e=1999 v=5012 0\n"
+			matCapSfx += "	config_HwShader=2 e=2000 v=5012 1\n"
+			matCapSfx += "	shadername_HwShader=2 e=2001 v=5000 \n"
+			matCapSfx += "	saveshadertodisk_HwShader=2 e=2002 v=5015 \n"
+			matCapSfx += "	group=-1\n"
+			matCapSfx += "	ISC=9\n"
+			matCapSfx += "		SVT=2002 2002 0 0 0 _NumberOfLights\n"
+			matCapSfx += "		SVT=5001 3002 0 0 0 _ObjectVertexPosition\n"
+			matCapSfx += "		SVT=5001 2003 0 0 0 \n"
+			matCapSfx += "		SVT=5001 3002 0 0 0 _Displacement\n"
+			matCapSfx += "		SVT=5001 5018 0 0 0 _SurfaceShader\n"
+			matCapSfx += "		SVT=5001 2003 0 0 0 _SurfaceMask\n"
+			matCapSfx += "		SVT=5001 2003 0 0 0 _SurfaceMaskCutoff\n"
+			matCapSfx += "		SVT=2001 2001 0 0 0 _Gamma\n"
+			matCapSfx += "		SVT=1001 1002 0 0 0 \n"
+			matCapSfx += "	OSC=0\n"
+			matCapSfx += "#NT=10100 1 Traditional Game Surface Shader-Hw Shader Nodes-Surface Shaders\n"
+			matCapSfx += "	PC=26\n"
+			matCapSfx += "	name=1 v=5000 TraditionalGameSurfaceShader\n"
+			matCapSfx += "	version=1 v=2003 1.481\n"
+			matCapSfx += "	posx=1 v=2003 -258.333\n"
+			matCapSfx += "	posy=1 v=2003 16.6667\n"
+			matCapSfx += "	previewswatch=1 v=2002 2\n"
+			matCapSfx += "	classname=1 v=5000 Traditional Game Surface Shader\n"
+			matCapSfx += "	submenuname=1 v=5000 Surface Shaders\n"
+			matCapSfx += "	bitmapnodeindex=1 v=2002 10\n"
+			matCapSfx += "	isadvanced=1 v=2001 1\n"
+			matCapSfx += "	advanceddelete=1 v=2001 1\n"
+			matCapSfx += "	helpid=1 v=2002 74\n"
+			matCapSfx += "	grpnodecolor=1 v=5012 4\n"
+			matCapSfx += "	grpPosX=1 v=2003 -990.608\n"
+			matCapSfx += "	grpPosY=1 v=2003 169.65\n"
+			matCapSfx += "	options_Diffuse=2 e=1 v=5012 0\n"
+			matCapSfx += "	options_Specular=2 e=1 v=5012 0\n"
+			matCapSfx += "	value_FlipBackFaces=2 e=1 v=2001 1\n"
+			matCapSfx += "	value_TranslucencyDistortion=2 e=1100 v=2003 0.2\n"
+			matCapSfx += "	value_TranslucencyPower=2 e=1101 v=2003 3.0\n"
+			matCapSfx += "	value_TranslucencyMinimum=2 e=1102 v=2003 0.0\n"
+			matCapSfx += "	color_TranslucencyOuter=2 e=1104 v=3003 1.0,0.64,0.25,1.0\n"
+			matCapSfx += "	color_TranslucencyMedium=2 e=1105 v=3003 1.0,0.21,0.14,1.0\n"
+			matCapSfx += "	color_TranslucencyInner=2 e=1106 v=3003 0.25,0.05,0.02,1.0\n"
+			matCapSfx += "	value_UseStreamLightData=2 e=1500 v=2001 0\n"
+			matCapSfx += "	value_BakedLightColorSet=2 e=1502 v=5000 BakedLightColorSet\n"
+			matCapSfx += "	value_BakedLightColorSetUnshared=2 e=1503 v=2001 1\n"
+			matCapSfx += "	group=-1\n"
+			matCapSfx += "	ISC=17\n"
+			matCapSfx += "		SVT=5001 2003 0 0 0 _Opacity\n"
+			matCapSfx += "		SVT=5001 3002 0 0 0 _Emissive\n"
+			matCapSfx += "		SVT=5001 2003 0 0 0 _AmbientOcclusion\n"
+			matCapSfx += "		SVT=5001 3002 0 0 0 _DiffuseColor\n"
+			matCapSfx += "		SVT=5001 2003 0 0 0 _SpecularPower\n"
+			matCapSfx += "		SVT=5001 3002 0 0 0 _SpecularColor\n"
+			matCapSfx += "		SVT=5001 3002 0 0 0 _Reflection\n"
+			matCapSfx += "		SVT=5001 2003 0 0 0 _ReflectionIntensity\n"
+			matCapSfx += "		SVT=5001 3002 0 0 0 _Normal\n"
+			matCapSfx += "		SVT=5001 3002 0 0 0 _ObjectThickness\n"
+			matCapSfx += "		SVT=5001 2003 0 0 0 _BlendedNormal\n"
+			matCapSfx += "		SVT=5001 2003 0 0 0 _BlendedNormalMask\n"
+			matCapSfx += "		SVT=5001 3002 0 0 0 _AnisotropicDirection\n"
+			matCapSfx += "		SVT=5001 3001 0 0 0 _AnisotropicSpread\n"
+			matCapSfx += "		SVT=5001 3002 0 0 0 _IBL\n"
+			matCapSfx += "		SVT=5001 2003 0 0 0 _Weight\n"
+			matCapSfx += "		SVT=1001 1002 0 0 0 \n"
+			matCapSfx += "	OSC=2\n"
+			matCapSfx += "		SVT=5001 5018 0 _SurfaceShader\n"
+			matCapSfx += "		CC=1\n"
+			matCapSfx += "			C=1 0 0 0 4 0 0\n"
+			matCapSfx += "			CPC=0\n"
+			matCapSfx += "		SVT=1001 1002 0 \n"
+			matCapSfx += "		CC=0\n"
+			matCapSfx += "#NT=10100 1 MatCapUVs-Hw Shader Nodes-Textures\n"
+			matCapSfx += "	PC=11\n"
+			matCapSfx += "	name=1 v=5000 MatCapUVs\n"
+			matCapSfx += "	version=1 v=2003 1.04\n"
+			matCapSfx += "	posx=1 v=2003 -683.033\n"
+			matCapSfx += "	posy=1 v=2003 21.883\n"
+			matCapSfx += "	classname=1 v=5000 MatCapUVs\n"
+			matCapSfx += "	submenuname=1 v=5000 Textures\n"
+			matCapSfx += "	helpid=1 v=2002 76\n"
+			matCapSfx += "	grpnodecolor=1 v=5012 7\n"
+			matCapSfx += "	grpPosX=1 v=2003 -985.541\n"
+			matCapSfx += "	grpPosY=1 v=2003 -160.111\n"
+			matCapSfx += "	value_CenterHighlights=2 e=1 v=2001 0\n"
+			matCapSfx += "	group=-1\n"
+			matCapSfx += "	ISC=2\n"
+			matCapSfx += "		SVT=5001 3002 0 0 0 _Normal\n"
+			matCapSfx += "		SVT=1001 1002 0 0 0 \n"
+			matCapSfx += "	OSC=2\n"
+			matCapSfx += "		SVT=5001 3001 0 _UV\n"
+			matCapSfx += "		CC=1\n"
+			matCapSfx += "			C=2 0 0 3 0 0 0\n"
+			matCapSfx += "			CPC=0\n"
+			matCapSfx += "		SVT=1001 1002 0 \n"
+			matCapSfx += "		CC=0\n"
+			matCapSfx += "#NT=10100 1 Texture Map-Hw Shader Nodes-Textures\n"
+			matCapSfx += "	PC=24\n"
+			matCapSfx += "	name=1 v=5000 matCapSrcc\n"
+			matCapSfx += "	version=1 v=2003 1.91\n"
+			matCapSfx += "	posx=1 v=2003 -466.184\n"
+			matCapSfx += "	posy=1 v=2003 18.4478\n"
+			matCapSfx += "	classname=1 v=5000 Texture Map\n"
+			matCapSfx += "	submenuname=1 v=5000 Textures\n"
+			matCapSfx += "	bitmapnodeindex=1 v=2002 64\n"
+			matCapSfx += "	helpid=1 v=2002 19\n"
+			matCapSfx += "	grpnodecolor=1 v=5012 6\n"
+			matCapSfx += "	grpPosX=1 v=2003 -1103.29\n"
+			matCapSfx += "	grpPosY=1 v=2003 -17.5179\n"
+			matCapSfx += "	defineinheader_MyTexture=2 e=1 v=2001 0\n"
+			matCapSfx += "	texturepath_MyTexture=2 e=1 v=5000 \n"
+			matCapSfx += "	uvindex_UVs=2 e=2 v=2002 0\n"
+			matCapSfx += "	uvsetname_UVs=2 e=3 v=5000 \n"
+			matCapSfx += "	autoPreviewTexture_MyTexture=2 e=4 v=2001 1\n"
+			matCapSfx += "	value_ConvertToLinearSpace=2 e=4 v=2001 0\n"
+			matCapSfx += "	perinstanceunshared_UVs=2 e=4 v=2001 0\n"
+			matCapSfx += "	texturenodename_MyTexture=2 e=5 v=5000 \n"
+			matCapSfx += "	addressu_Sampler=2 e=7 v=5012 0\n"
+			matCapSfx += "	addressv_Sampler=2 e=8 v=5012 0\n"
+			matCapSfx += "	addressw_Sampler=2 e=9 v=5012 0\n"
+			matCapSfx += "	uigroup_MyTexture=2 e=13 v=5000 \n"
+			matCapSfx += "	uiorder_MyTexture=2 e=13 v=2002 0\n"
+			matCapSfx += "	group=-1\n"
+			matCapSfx += "	ISC=4\n"
+			matCapSfx += "		SVT=5001 3001 0 0 0 _UV\n"
+			matCapSfx += "		SVT=5001 2003 0 0 0 \n"
+			matCapSfx += "		SVT=2001 2001 0 0 0 _ConvertToLinearSpace\n"
+			matCapSfx += "		SVT=1001 1002 0 0 0 \n"
+			matCapSfx += "	OSC=7\n"
+			matCapSfx += "		SVT=5001 3003 0 _RGBA\n"
+			matCapSfx += "		CC=0\n"
+			matCapSfx += "		SVT=5001 3002 0 _Color\n"
+			matCapSfx += "		CC=1\n"
+			matCapSfx += "			C=3 1 0 1 1 0 0\n"
+			matCapSfx += "			CPC=0\n"
+			matCapSfx += "		SVT=5001 2003 0 _Red\n"
+			matCapSfx += "		CC=0\n"
+			matCapSfx += "		SVT=5001 2003 0 _Green\n"
+			matCapSfx += "		CC=0\n"
+			matCapSfx += "		SVT=5001 2003 0 _Blue\n"
+			matCapSfx += "		CC=0\n"
+			matCapSfx += "		SVT=5001 2003 0 \n"
+			matCapSfx += "		CC=0\n"
+			matCapSfx += "		SVT=5001 1002 0 \n"
+			matCapSfx += "		CC=0\n"
+			local matCapMtl = DirectX_9_Shader()
+			matCapMtl.shaderfxgraph = matCapSfx
+			matCapMtl.useshaderfx = 1
+		)
+		local matCapTexPath = getIniSetting ((getdir #plugcfg) + "superClay.ini") "superClay" "mapPath" 
+		if (doesFileExist matCapTexPath) then (
+			matCapMtl.mytexture = (openBitmap matCapTexPath)
+			matCapMtl.ClampDynamicLights = 0
+		)
+		nitrousgraphicsmanager.OverrideRenderSettingMtl = matCapMtl
+		viewsetting.overridematerialoption = #renderingsetting
+	)
+	if keyboard.shiftpressed == true then (
+		local matCapTexPath = getOpenFileName caption:"superClayMode | Select a MatCap texture | (c)2016 Changsoo Eun"
+		if matCapTexPath != undefined then (
+			setIniSetting ((getdir #plugcfg) + "superClay.ini") "superClay" "mapPath" matCapTexPath
+			if viewsetting.overridematerialoption == #renderingsetting then (
+				superClayOn()
+				redrawViews() 			
+			)
+		)
+	)
+	else (
+		if viewsetting.overridematerialoption == #renderingsetting then (
+			viewsetting.overridematerialoption = #none
+			if ProgressiveRenderingStatus == undefined then ProgressiveRenderingStatus = false
+			viewsetting.ProgressiveRenderingEnabled = ProgressiveRenderingStatus
+			if viewportPresetStatus == undefined then viewportPresetStatus = #Standard		
+			viewsetting.ViewportPreset = viewportPresetStatus
+		)
+		else (
+			ProgressiveRenderingStatus = viewsetting.ProgressiveRenderingEnabled			
+			viewportPresetStatus = viewsetting.ViewportPreset					
+			viewsetting.ProgressiveRenderingEnabled = false
+			viewsetting.ViewportPreset = #Performance
+			superClayOn()
+		)
+		redrawViews() 
+	)
+)

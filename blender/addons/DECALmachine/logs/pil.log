@@ -1,0 +1,90 @@
+
+DECALmachine: Installing PIL
+
+Platform: Windows
+Python Binary: C:\Users\maiw\blender\2.80\python\bin\python.EXE True
+Python Library: C:\Users\maiw\blender\2.80\python\lib True
+Ensurepip: C:\Users\maiw\blender\2.80\python\lib\ensurepip True
+
+Site-Packages: C:\Users\maiw\blender\2.80\python\lib\site-packages True
+User Site-Packages: C:\Users\maiw\AppData\Roaming\Python\Python37\site-packages False
+EasyInstall Path: C:\Users\maiw\blender\2.80\python\lib\site-packages\easy_install.py False
+EasyInstall User Path: C:\Users\maiw\AppData\Roaming\Python\Python37\site-packages\easy_install.py False
+
+
+
+Looking in links: C:\Temp\tmpcj7w1e8x
+Collecting setuptools
+Collecting pip
+Installing collected packages: setuptools, pip
+Successfully installed pip-10.0.1 setuptools-39.0.1
+Collecting pip
+Downloading https://files.pythonhosted.org/packages/f9/fb/863012b13912709c13cf5cfdbfb304fa6c727659d6290438e1a88df9d848/pip-19.1-py2.py3-none-any.whl (1.4MB)
+Installing collected packages: pip
+Found existing installation: pip 10.0.1
+Uninstalling pip-10.0.1:
+Successfully uninstalled pip-10.0.1
+Successfully installed pip-19.1
+Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<pip._vendor.urllib3.connection.VerifiedHTTPSConnection object at 0x000002BA28D9AD68>, 'Connection to files.pythonhosted.org timed out. (connect timeout=15)')': /packages/f9/fb/863012b13912709c13cf5cfdbfb304fa6c727659d6290438e1a88df9d848/pip-19.1-py2.py3-none-any.whl
+Collecting Pillow==5.4.1
+Downloading https://files.pythonhosted.org/packages/20/59/edb6fe64a608afc9fd1faf3470774b4131b4be9d40c496b0c144033e249a/Pillow-5.4.1-cp37-cp37m-win_amd64.whl (2.0MB)
+Installing collected packages: Pillow
+Successfully installed Pillow-5.4.1
+
+Added C:\Users\maiw\AppData\Roaming\Python\Python37\site-packages to sys.path
+Successfully imported PIL's Image module. PIL is ready to go.
+
+ENVIRONMENT
+ADSK_3DSMAX_X64_2018: C:\Program Files\Autodesk\3ds Max 2018\
+ADSK_CLM_WPAD_PROXY_CHECK: FALSE
+ALLUSERSPROFILE: C:\ProgramData
+APPDATA: C:\Users\maiw\AppData\Roaming
+COMMONPROGRAMFILES: C:\Program Files\Common Files
+COMMONPROGRAMFILES(X86): C:\Program Files (x86)\Common Files
+COMMONPROGRAMW6432: C:\Program Files\Common Files
+COMPUTERNAME: SERGEI
+COMSPEC: C:\Windows\system32\cmd.exe
+DRIVERDATA: C:\Windows\System32\Drivers\DriverData
+FPS_BROWSER_APP_PROFILE_STRING: Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING: Default
+HOMEDRIVE: C:
+HOMEPATH: \Users\maiw
+INTEL_DEV_REDIST: C:\Program Files (x86)\Common Files\Intel\Shared Libraries\
+LOCALAPPDATA: C:\Users\maiw\AppData\Local
+LOGONSERVER: \\SERGEI
+MIC_LD_LIBRARY_PATH: C:\Program Files (x86)\Common Files\Intel\Shared Libraries\compiler\lib\intel64_win_mic
+NUMBER_OF_PROCESSORS: 8
+OMP_WAIT_POLICY: PASSIVE
+OS: Windows_NT
+PATH: C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft VS Code\bin;C:\Program Files (x86)\Autodesk\Backburner\;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files\Git\cmd;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft VS Code\bin;C:\Program Files (x86)\Autodesk\Backburner\;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files\Git\cmd;C:\Users\maiw\blender\;D:\Programs\Blender;C:\Program Files\Blender Foundation\blender;C:\Program Files\Far Manager;C:\Program Files\Autodesk\3ds Max 2018;C:\Users\maiw\chrome;
+PATHEXT: .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE: AMD64
+PROCESSOR_IDENTIFIER: Intel64 Family 6 Model 42 Stepping 7, GenuineIntel
+PROCESSOR_LEVEL: 6
+PROCESSOR_REVISION: 2a07
+PROGRAMDATA: C:\ProgramData
+PROGRAMFILES: C:\Program Files
+PROGRAMFILES(X86): C:\Program Files (x86)
+PROGRAMW6432: C:\Program Files
+PSMODULEPATH: C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC: C:\Users\Public
+SESSIONNAME: Console
+SYSTEMDRIVE: C:
+SYSTEMROOT: C:\Windows
+TEMP: C:\Temp
+TMP: C:\Temp
+USERDOMAIN: SERGEI
+USERDOMAIN_ROAMINGPROFILE: SERGEI
+USERNAME: maiw
+USERPROFILE: C:\Users\maiw
+VRAY30_RT_FOR_3DSMAX2018_MAIN_X64: C:\Program Files\Chaos Group\V-Ray\RT for 3ds Max 2018 for x64/bin
+VRAY30_RT_FOR_3DSMAX2018_PLUGINS_X64: C:\Program Files\Chaos Group\V-Ray\RT for 3ds Max 2018 for x64/bin/plugins
+VRAY4_FOR_3DSMAX2018_MAIN: C:\Program Files\Chaos Group\V-Ray\3ds Max 2018/bin
+VRAY4_FOR_3DSMAX2018_PLUGINS: C:\Program Files\Chaos Group\V-Ray\3ds Max 2018/bin/plugins
+VRAY_GPU_PLATFORMS: c++/cpu;nvidia cuda geforce gtx 650 gpu index0;
+VRAY_MDL_PATH_3DSMAX2018: C:\Program Files\Chaos Group\V-Ray\3ds Max 2018\mdl
+VRAY_MDL_PATH_3DSMAX2018_X64: C:\Program Files\Chaos Group\V-Ray\3dsmax 2018 for x64\mdl
+VRAY_OSL_PATH_3DSMAX2018: C:\Program Files\Chaos Group\V-Ray\3ds Max 2018\opensl
+VRAY_OSL_PATH_3DSMAX2018_X64: C:\Program Files\Chaos Group\V-Ray\3dsmax 2018 for x64\opensl
+VRAY_SEND_FEEDBACK: 1
+WINDIR: C:\Windows

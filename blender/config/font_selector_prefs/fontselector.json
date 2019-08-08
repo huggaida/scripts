@@ -1,0 +1,2104 @@
+{
+    "fonts": [
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\American Captain.ttf",
+            "name": "AmericanCaptain",
+            "subdirectory": "Fonts"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Bauhaus-93_6274.ttf",
+            "name": "Bauhaus93",
+            "subdirectory": "Fonts"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Bauhaus-Bold_6277.ttf",
+            "name": "Bauhaus-Bold",
+            "subdirectory": "Fonts"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cabana.ttf",
+            "name": "Cabana-Regular",
+            "subdirectory": "Fonts"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Function_Regular.ttf",
+            "name": "Function-Regular",
+            "subdirectory": "Fonts"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Rhubarb.otf",
+            "name": "Rabarbar-Display",
+            "subdirectory": "Fonts"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Rounded Elegance.ttf",
+            "name": "RoundedElegance-Regular",
+            "subdirectory": "Fonts"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Screpka.ttf",
+            "name": "ScrepkaRegular",
+            "subdirectory": "Fonts"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Stampbor_Grunge_Russian.otf",
+            "name": "StampborGrungeRussian",
+            "subdirectory": "Fonts"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Zetafonts - Klein Text Book Italic.otf",
+            "name": "KleinText-BookItalic",
+            "subdirectory": "Fonts"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Zetafonts - Klein Text Book.otf",
+            "name": "KleinText-Book",
+            "subdirectory": "Fonts"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\AGOpt\\AGOptCyrillic-Bold-Italic_2529.ttf",
+            "name": "AGOptCyrillicBold-Italic",
+            "subdirectory": "AGOpt"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\AGOpt\\AGOptCyrillic-Bold_2528.ttf",
+            "name": "AGOptCyrillicBold",
+            "subdirectory": "AGOpt"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\AGOpt\\AGOptCyrillic-Normal-Italic_2531.ttf",
+            "name": "AGOptCyrillicNormal-Italic",
+            "subdirectory": "AGOpt"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\AGOpt\\AGOptCyrillic-Normal_2530.ttf",
+            "name": "AGOptCyrillicNormal",
+            "subdirectory": "AGOpt"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\AGSou\\AGSouCyrillic_BoldItalic_A.ttf",
+            "name": "AGSouCyrillicBold-ItalicA",
+            "subdirectory": "AGSou"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\AGSou\\AGSouCyrillic_Bold_A.ttf",
+            "name": "AGSouCyrillicBoldA",
+            "subdirectory": "AGSou"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\AGSou\\AGSouCyrillic_NormalItalic_A.ttf",
+            "name": "AGSouCyrillicNormal-ItalicA",
+            "subdirectory": "AGSou"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\AGSou\\AGSouCyrillic_Normal_A.ttf",
+            "name": "AGSouCyrillicNormalA",
+            "subdirectory": "AGSou"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Bender\\Bender-Black.otf",
+            "name": "Bender-Black",
+            "subdirectory": "Bender"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Bender\\Bender-BlackItalic.otf",
+            "name": "Bender-BlackItalic",
+            "subdirectory": "Bender"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Bender\\Bender-Bold.otf",
+            "name": "Bender-Bold",
+            "subdirectory": "Bender"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Bender\\Bender-BoldItalic.otf",
+            "name": "Bender-BoldItalic",
+            "subdirectory": "Bender"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Bender\\Bender-Italic.otf",
+            "name": "Bender-Italic",
+            "subdirectory": "Bender"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Bender\\Bender-Light.otf",
+            "name": "Bender-Light",
+            "subdirectory": "Bender"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Bender\\Bender-LightItalic.otf",
+            "name": "Bender-LightItalic",
+            "subdirectory": "Bender"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Bender\\Bender.otf",
+            "name": "Bender",
+            "subdirectory": "Bender"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Blogger_Sans\\Blogger Sans-Bold Italic.otf",
+            "name": "BloggerSans-BoldItalic",
+            "subdirectory": "Blogger_Sans"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Blogger_Sans\\Blogger Sans-Bold Italic.ttf",
+            "name": "BloggerSans-BoldItalic",
+            "subdirectory": "Blogger_Sans"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Blogger_Sans\\Blogger Sans-Bold.otf",
+            "name": "BloggerSans-Bold",
+            "subdirectory": "Blogger_Sans"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Blogger_Sans\\Blogger Sans-Bold.ttf",
+            "name": "BloggerSans-Bold",
+            "subdirectory": "Blogger_Sans"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Blogger_Sans\\Blogger Sans-Italic.otf",
+            "name": "BloggerSans-Italic",
+            "subdirectory": "Blogger_Sans"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Blogger_Sans\\Blogger Sans-Italic.ttf",
+            "name": "BloggerSans-Italic",
+            "subdirectory": "Blogger_Sans"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Blogger_Sans\\Blogger Sans-Light Italic.otf",
+            "name": "BloggerSans-LightItalic",
+            "subdirectory": "Blogger_Sans"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Blogger_Sans\\Blogger Sans-Light Italic.ttf",
+            "name": "BloggerSans-LightItalic",
+            "subdirectory": "Blogger_Sans"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Blogger_Sans\\Blogger Sans-Light.otf",
+            "name": "BloggerSans-Light",
+            "subdirectory": "Blogger_Sans"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Blogger_Sans\\Blogger Sans-Light.ttf",
+            "name": "BloggerSans-Light",
+            "subdirectory": "Blogger_Sans"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Blogger_Sans\\Blogger Sans-Medium Italic.otf",
+            "name": "BloggerSans-MediumItalic",
+            "subdirectory": "Blogger_Sans"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Blogger_Sans\\Blogger Sans-Medium Italic.ttf",
+            "name": "BloggerSans-MediumItalic",
+            "subdirectory": "Blogger_Sans"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Blogger_Sans\\Blogger Sans-Medium.otf",
+            "name": "BloggerSans-Medium",
+            "subdirectory": "Blogger_Sans"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Blogger_Sans\\Blogger Sans-Medium.ttf",
+            "name": "BloggerSans-Medium",
+            "subdirectory": "Blogger_Sans"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Blogger_Sans\\Blogger Sans.otf",
+            "name": "BloggerSans",
+            "subdirectory": "Blogger_Sans"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Blogger_Sans\\Blogger Sans.ttf",
+            "name": "BloggerSans",
+            "subdirectory": "Blogger_Sans"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cartog\\Cartograph Mono CF Bold Italic.otf",
+            "name": "CartographMonoCF-BoldItalic",
+            "subdirectory": "Cartog"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cartog\\Cartograph Mono CF Bold.otf",
+            "name": "CartographMonoCF-Bold",
+            "subdirectory": "Cartog"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cartog\\Cartograph Mono CF Demi Bold Italic.otf",
+            "name": "CartographMonoCF-DemiBoldItalic",
+            "subdirectory": "Cartog"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cartog\\Cartograph Mono CF Demi Bold.otf",
+            "name": "CartographMonoCF-DemiBold",
+            "subdirectory": "Cartog"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cartog\\Cartograph Mono CF Extra Bold Italic.otf",
+            "name": "CartographMonoCF-ExtraBoldItalic",
+            "subdirectory": "Cartog"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cartog\\Cartograph Mono CF Extra Bold.otf",
+            "name": "CartographMonoCF-ExtraBold",
+            "subdirectory": "Cartog"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cartog\\Cartograph Mono CF Heavy Italic.otf",
+            "name": "CartographMonoCF-HeavyItalic",
+            "subdirectory": "Cartog"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cartog\\Cartograph Mono CF Heavy.otf",
+            "name": "CartographMonoCF-Heavy",
+            "subdirectory": "Cartog"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cartog\\Cartograph Mono CF Light Italic.otf",
+            "name": "CartographMonoCF-LightItalic",
+            "subdirectory": "Cartog"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cartog\\Cartograph Mono CF Light.otf",
+            "name": "CartographMonoCF-Light",
+            "subdirectory": "Cartog"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cartog\\Cartograph Mono CF Medium Italic.otf",
+            "name": "CartographMonoCF-MediumItalic",
+            "subdirectory": "Cartog"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cartog\\Cartograph Mono CF Medium.otf",
+            "name": "CartographMonoCF-Medium",
+            "subdirectory": "Cartog"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cartog\\Cartograph Mono CF Regular Italic.otf",
+            "name": "CartographMonoCF-RegularItalic",
+            "subdirectory": "Cartog"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cartog\\Cartograph Mono CF Thin Italic.otf",
+            "name": "CartographMonoCF-ThinItalic",
+            "subdirectory": "Cartog"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cartog\\Cartograph Mono CF Thin.otf",
+            "name": "CartographMonoCF-Thin",
+            "subdirectory": "Cartog"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cartog\\Cartograph Mono CF.otf",
+            "name": "CartographMonoCF",
+            "subdirectory": "Cartog"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cartog\\Cartograph Sans CF Bold Italic.otf",
+            "name": "CartographSansCF-BoldItalic",
+            "subdirectory": "Cartog"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cartog\\Cartograph Sans CF Bold.otf",
+            "name": "CartographSansCF-Bold",
+            "subdirectory": "Cartog"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cartog\\Cartograph Sans CF Demi Bold Italic.otf",
+            "name": "CartographSansCF-DemiBoldItalic",
+            "subdirectory": "Cartog"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cartog\\Cartograph Sans CF Demi Bold.otf",
+            "name": "CartographSansCF-DemiBold",
+            "subdirectory": "Cartog"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cartog\\Cartograph Sans CF Extra Bold Italic.otf",
+            "name": "CartographSansCF-ExtraBoldItalic",
+            "subdirectory": "Cartog"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cartog\\Cartograph Sans CF Extra Bold.otf",
+            "name": "CartographSansCF-ExtraBold",
+            "subdirectory": "Cartog"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cartog\\Cartograph Sans CF Heavy Italic.otf",
+            "name": "CartographSansCF-HeavyItalic",
+            "subdirectory": "Cartog"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cartog\\Cartograph Sans CF Heavy.otf",
+            "name": "CartographSansCF-Heavy",
+            "subdirectory": "Cartog"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cartog\\Cartograph Sans CF Light Italic.otf",
+            "name": "CartographSansCF-LightItalic",
+            "subdirectory": "Cartog"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cartog\\Cartograph Sans CF Light.otf",
+            "name": "CartographSansCF-Light",
+            "subdirectory": "Cartog"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cartog\\Cartograph Sans CF Medium Italic.otf",
+            "name": "CartographSansCF-MediumItalic",
+            "subdirectory": "Cartog"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cartog\\Cartograph Sans CF Medium.otf",
+            "name": "CartographSansCF-Medium",
+            "subdirectory": "Cartog"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cartog\\Cartograph Sans CF Regular Italic.otf",
+            "name": "CartographSansCF-RegularItalic",
+            "subdirectory": "Cartog"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cartog\\Cartograph Sans CF Thin Italic.otf",
+            "name": "CartographSansCF-ThinItalic",
+            "subdirectory": "Cartog"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cartog\\Cartograph Sans CF Thin.otf",
+            "name": "CartographSansCF-Thin",
+            "subdirectory": "Cartog"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cartog\\Cartograph Sans CF.otf",
+            "name": "CartographSansCF",
+            "subdirectory": "Cartog"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cocomat\\Cocomat-Bold.otf",
+            "name": "Cocomat-Bold",
+            "subdirectory": "Cocomat"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cocomat\\Cocomat-BoldItalic.otf",
+            "name": "Cocomat-BoldItalic",
+            "subdirectory": "Cocomat"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cocomat\\Cocomat-Heavy.otf",
+            "name": "Cocomat-Heavy",
+            "subdirectory": "Cocomat"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cocomat\\Cocomat-HeavyItalic.otf",
+            "name": "Cocomat-HeavyItalic",
+            "subdirectory": "Cocomat"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cocomat\\Cocomat-Italic.otf",
+            "name": "Cocomat-Italic",
+            "subdirectory": "Cocomat"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cocomat\\Cocomat-Light.otf",
+            "name": "Cocomat-Light",
+            "subdirectory": "Cocomat"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cocomat\\Cocomat-LightItalic.otf",
+            "name": "Cocomat-LightItalic",
+            "subdirectory": "Cocomat"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cocomat\\Cocomat-Regular.otf",
+            "name": "Cocomat",
+            "subdirectory": "Cocomat"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cocomat\\Cocomat-UltraLight.otf",
+            "name": "Cocomat-UltraLight",
+            "subdirectory": "Cocomat"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cocomat\\Cocomat-UltraLightItalic.otf",
+            "name": "Cocomat-UltraLightItalic",
+            "subdirectory": "Cocomat"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cyrillic\\Cyrillic-Bold_12675.ttf",
+            "name": "CyrillicBold",
+            "subdirectory": "Cyrillic"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cyrillic\\Cyrillic-Normal_12704.ttf",
+            "name": "Cyrillic-Normal",
+            "subdirectory": "Cyrillic"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cyrillic\\CyrillicRoman.ttf",
+            "name": "CyrillicRoman",
+            "subdirectory": "Cyrillic"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cyrillic\\CyrillicSans.ttf",
+            "name": "CyrillicSans",
+            "subdirectory": "Cyrillic"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\FreeSet\\FreeSet-Cyrillic_18649.ttf",
+            "name": "FreeSetCyrillic",
+            "subdirectory": "FreeSet"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\FreeSet\\FreeSetC-Italic_18655.ttf",
+            "name": "FreeSetC-Italic",
+            "subdirectory": "FreeSet"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\FreeSet\\FreeSetExtraCTT_18660.ttf",
+            "name": "FreeSetExtraCTT",
+            "subdirectory": "FreeSet"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Futuris\\Futuris-Cyrillic_19217.ttf",
+            "name": "FuturisCyrillic",
+            "subdirectory": "Futuris"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Futuris\\FuturisC-Bold_19221.ttf",
+            "name": "FuturisC-Bold",
+            "subdirectory": "Futuris"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Futuris\\FuturisCTT-Normal_19228.ttf",
+            "name": "FuturisC",
+            "subdirectory": "Futuris"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Futuris\\FuturisExtra-Bold-Cyrillic_19230.ttf",
+            "name": "FuturisExtraBoldCyrillic",
+            "subdirectory": "Futuris"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Futuris\\FuturisXC_19259.ttf",
+            "name": "FuturisXC",
+            "subdirectory": "Futuris"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\gobold\\Gobold.ttf",
+            "name": "Gobold",
+            "subdirectory": "gobold"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\gobold\\Gobold_Blocky_Regular.otf",
+            "name": "GoboldBlocky",
+            "subdirectory": "gobold"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\gobold\\Gobold_Bold.ttf",
+            "name": "GoboldBold",
+            "subdirectory": "gobold"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\gobold\\Gobold_Bold_Italic.ttf",
+            "name": "GoboldBoldItalic-Italic",
+            "subdirectory": "gobold"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\gobold\\Gobold_Extra1.ttf",
+            "name": "GoboldExtra1",
+            "subdirectory": "gobold"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\gobold\\Gobold_Extra1_Italic.ttf",
+            "name": "GoboldExtra1Italic-Italic",
+            "subdirectory": "gobold"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\gobold\\Gobold_High.ttf",
+            "name": "GoboldHigh",
+            "subdirectory": "gobold"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\gobold\\Gobold_High_Bold.ttf",
+            "name": "GoboldHighBold",
+            "subdirectory": "gobold"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\gobold\\Gobold_High_Bold_Italic.ttf",
+            "name": "GoboldHighBoldItalic-Italic",
+            "subdirectory": "gobold"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\gobold\\Gobold_High_Italic.ttf",
+            "name": "GoboldHighItalic-Italic",
+            "subdirectory": "gobold"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\gobold\\Gobold_High_Thin.ttf",
+            "name": "GoboldHighThin",
+            "subdirectory": "gobold"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\gobold\\Gobold_High_Thin_Italic.ttf",
+            "name": "GoboldHighThinItalic-Italic",
+            "subdirectory": "gobold"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\gobold\\Gobold_Hollow.ttf",
+            "name": "GoboldHollow",
+            "subdirectory": "gobold"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\gobold\\Gobold_Hollow_Bold.ttf",
+            "name": "GoboldHollowBold",
+            "subdirectory": "gobold"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\gobold\\Gobold_Hollow_Bold_Italic.ttf",
+            "name": "GoboldHollowBoldItalic-Italic",
+            "subdirectory": "gobold"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\gobold\\Gobold_Hollow_Italic.ttf",
+            "name": "GoboldHollowItalic-Italic",
+            "subdirectory": "gobold"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\gobold\\Gobold_Italic.ttf",
+            "name": "GoboldItalic-Italic",
+            "subdirectory": "gobold"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\gobold\\Gobold_Light.ttf",
+            "name": "GoboldThinLight",
+            "subdirectory": "gobold"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\gobold\\Gobold_Light_Italic.ttf",
+            "name": "GoboldThinLightItalic-Italic",
+            "subdirectory": "gobold"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\gobold\\Gobold_Lowplus.ttf",
+            "name": "GoboldLowplus",
+            "subdirectory": "gobold"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\gobold\\Gobold_Lowplus_Italic.ttf",
+            "name": "GoboldLowplusItalic-Italic",
+            "subdirectory": "gobold"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\gobold\\Gobold_Regular_Italic.otf",
+            "name": "Gobold-Italic",
+            "subdirectory": "gobold"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\gobold\\Gobold_Thin.ttf",
+            "name": "GoboldThin",
+            "subdirectory": "gobold"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\gobold\\Gobold_Thin_Italic.ttf",
+            "name": "GoboldThinItalic-Italic",
+            "subdirectory": "gobold"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\gobold\\Gobold_Uplow.ttf",
+            "name": "GoboldUplow",
+            "subdirectory": "gobold"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\gobold\\Gobold_Uplow_Italic.ttf",
+            "name": "GoboldUplowItalic-Italic",
+            "subdirectory": "gobold"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\gogoia\\GOGOIA-Deco.otf",
+            "name": "GOGOIA-Deco",
+            "subdirectory": "gogoia"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\gogoia\\GOGOIA-Regular.otf",
+            "name": "GOGOIA-Regular",
+            "subdirectory": "gogoia"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMono\\InputMono-Black.ttf",
+            "name": "InputMono-Black",
+            "subdirectory": "InputMono"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMono\\InputMono-BlackItalic.ttf",
+            "name": "InputMono-BlackItalic",
+            "subdirectory": "InputMono"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMono\\InputMono-Bold.ttf",
+            "name": "InputMono-Bold",
+            "subdirectory": "InputMono"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMono\\InputMono-BoldItalic.ttf",
+            "name": "InputMono-BoldItalic",
+            "subdirectory": "InputMono"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMono\\InputMono-ExtraLight.ttf",
+            "name": "InputMono-ExtraLight",
+            "subdirectory": "InputMono"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMono\\InputMono-ExtraLightItalic.ttf",
+            "name": "InputMono-ExtraLightItalic",
+            "subdirectory": "InputMono"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMono\\InputMono-Italic.ttf",
+            "name": "InputMono-Italic",
+            "subdirectory": "InputMono"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMono\\InputMono-Light.ttf",
+            "name": "InputMono-Light",
+            "subdirectory": "InputMono"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMono\\InputMono-LightItalic.ttf",
+            "name": "InputMono-LightItalic",
+            "subdirectory": "InputMono"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMono\\InputMono-Medium.ttf",
+            "name": "InputMono-Medium",
+            "subdirectory": "InputMono"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMono\\InputMono-MediumItalic.ttf",
+            "name": "InputMono-MediumItalic",
+            "subdirectory": "InputMono"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMono\\InputMono-Regular.ttf",
+            "name": "InputMono-Regular",
+            "subdirectory": "InputMono"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMono\\InputMono-Thin.ttf",
+            "name": "InputMono-Thin",
+            "subdirectory": "InputMono"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMono\\InputMono-ThinItalic.ttf",
+            "name": "InputMono-ThinItalic",
+            "subdirectory": "InputMono"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoCompressed\\InputMonoCompressed-Black.ttf",
+            "name": "InputMonoCompressed-Black",
+            "subdirectory": "InputMonoCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoCompressed\\InputMonoCompressed-BlackItalic.ttf",
+            "name": "InputMonoCompressed-BlackItalic",
+            "subdirectory": "InputMonoCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoCompressed\\InputMonoCompressed-Bold.ttf",
+            "name": "InputMonoCompressed-Bold",
+            "subdirectory": "InputMonoCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoCompressed\\InputMonoCompressed-BoldItalic.ttf",
+            "name": "InputMonoCompressed-BoldItalic",
+            "subdirectory": "InputMonoCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoCompressed\\InputMonoCompressed-ExtraLight.ttf",
+            "name": "InputMonoCompressed-ExtraLight",
+            "subdirectory": "InputMonoCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoCompressed\\InputMonoCompressed-ExtraLightItalic.ttf",
+            "name": "InputMonoCompressed-ExtraLightItalic",
+            "subdirectory": "InputMonoCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoCompressed\\InputMonoCompressed-Italic.ttf",
+            "name": "InputMonoCompressed-Italic",
+            "subdirectory": "InputMonoCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoCompressed\\InputMonoCompressed-Light.ttf",
+            "name": "InputMonoCompressed-Light",
+            "subdirectory": "InputMonoCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoCompressed\\InputMonoCompressed-LightItalic.ttf",
+            "name": "InputMonoCompressed-LightItalic",
+            "subdirectory": "InputMonoCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoCompressed\\InputMonoCompressed-Medium.ttf",
+            "name": "InputMonoCompressed-Medium",
+            "subdirectory": "InputMonoCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoCompressed\\InputMonoCompressed-MediumItalic.ttf",
+            "name": "InputMonoCompressed-MediumItalic",
+            "subdirectory": "InputMonoCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoCompressed\\InputMonoCompressed-Regular.ttf",
+            "name": "InputMonoCompressed-Regular",
+            "subdirectory": "InputMonoCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoCompressed\\InputMonoCompressed-Thin.ttf",
+            "name": "InputMonoCompressed-Thin",
+            "subdirectory": "InputMonoCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoCompressed\\InputMonoCompressed-ThinItalic.ttf",
+            "name": "InputMonoCompressed-ThinItalic",
+            "subdirectory": "InputMonoCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoCondensed\\InputMonoCondensed-Black.ttf",
+            "name": "InputMonoCondensed-Black",
+            "subdirectory": "InputMonoCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoCondensed\\InputMonoCondensed-BlackItalic.ttf",
+            "name": "InputMonoCondensed-BlackItalic",
+            "subdirectory": "InputMonoCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoCondensed\\InputMonoCondensed-Bold.ttf",
+            "name": "InputMonoCondensed-Bold",
+            "subdirectory": "InputMonoCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoCondensed\\InputMonoCondensed-BoldItalic.ttf",
+            "name": "InputMonoCondensed-BoldItalic",
+            "subdirectory": "InputMonoCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoCondensed\\InputMonoCondensed-ExtraLight.ttf",
+            "name": "InputMonoCondensed-ExtraLight",
+            "subdirectory": "InputMonoCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoCondensed\\InputMonoCondensed-ExtraLightItalic.ttf",
+            "name": "InputMonoCondensed-ExtraLightItalic",
+            "subdirectory": "InputMonoCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoCondensed\\InputMonoCondensed-Italic.ttf",
+            "name": "InputMonoCondensed-Italic",
+            "subdirectory": "InputMonoCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoCondensed\\InputMonoCondensed-Light.ttf",
+            "name": "InputMonoCondensed-Light",
+            "subdirectory": "InputMonoCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoCondensed\\InputMonoCondensed-LightItalic.ttf",
+            "name": "InputMonoCondensed-LightItalic",
+            "subdirectory": "InputMonoCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoCondensed\\InputMonoCondensed-Medium.ttf",
+            "name": "InputMonoCondensed-Medium",
+            "subdirectory": "InputMonoCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoCondensed\\InputMonoCondensed-MediumItalic.ttf",
+            "name": "InputMonoCondensed-MediumItalic",
+            "subdirectory": "InputMonoCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoCondensed\\InputMonoCondensed-Regular.ttf",
+            "name": "InputMonoCondensed-Regular",
+            "subdirectory": "InputMonoCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoCondensed\\InputMonoCondensed-Thin.ttf",
+            "name": "InputMonoCondensed-Thin",
+            "subdirectory": "InputMonoCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoCondensed\\InputMonoCondensed-ThinItalic.ttf",
+            "name": "InputMonoCondensed-ThinItalic",
+            "subdirectory": "InputMonoCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoNarrow\\InputMonoNarrow-Black.ttf",
+            "name": "InputMonoNarrow-Black",
+            "subdirectory": "InputMonoNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoNarrow\\InputMonoNarrow-BlackItalic.ttf",
+            "name": "InputMonoNarrow-BlackItalic",
+            "subdirectory": "InputMonoNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoNarrow\\InputMonoNarrow-Bold.ttf",
+            "name": "InputMonoNarrow-Bold",
+            "subdirectory": "InputMonoNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoNarrow\\InputMonoNarrow-BoldItalic.ttf",
+            "name": "InputMonoNarrow-BoldItalic",
+            "subdirectory": "InputMonoNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoNarrow\\InputMonoNarrow-ExtraLight.ttf",
+            "name": "InputMonoNarrow-ExtraLight",
+            "subdirectory": "InputMonoNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoNarrow\\InputMonoNarrow-ExtraLightItalic.ttf",
+            "name": "InputMonoNarrow-ExtraLightItalic",
+            "subdirectory": "InputMonoNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoNarrow\\InputMonoNarrow-Italic.ttf",
+            "name": "InputMonoNarrow-Italic",
+            "subdirectory": "InputMonoNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoNarrow\\InputMonoNarrow-Light.ttf",
+            "name": "InputMonoNarrow-Light",
+            "subdirectory": "InputMonoNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoNarrow\\InputMonoNarrow-LightItalic.ttf",
+            "name": "InputMonoNarrow-LightItalic",
+            "subdirectory": "InputMonoNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoNarrow\\InputMonoNarrow-Medium.ttf",
+            "name": "InputMonoNarrow-Medium",
+            "subdirectory": "InputMonoNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoNarrow\\InputMonoNarrow-MediumItalic.ttf",
+            "name": "InputMonoNarrow-MediumItalic",
+            "subdirectory": "InputMonoNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoNarrow\\InputMonoNarrow-Regular.ttf",
+            "name": "InputMonoNarrow-Regular",
+            "subdirectory": "InputMonoNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoNarrow\\InputMonoNarrow-Thin.ttf",
+            "name": "InputMonoNarrow-Thin",
+            "subdirectory": "InputMonoNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoNarrow\\InputMonoNarrow-ThinItalic.ttf",
+            "name": "InputMonoNarrow-ThinItalic",
+            "subdirectory": "InputMonoNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSans\\InputSans-Black.ttf",
+            "name": "InputSans-Black",
+            "subdirectory": "InputSans"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSans\\InputSans-BlackItalic.ttf",
+            "name": "InputSans-BlackItalic",
+            "subdirectory": "InputSans"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSans\\InputSans-Bold.ttf",
+            "name": "InputSans-Bold",
+            "subdirectory": "InputSans"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSans\\InputSans-BoldItalic.ttf",
+            "name": "InputSans-BoldItalic",
+            "subdirectory": "InputSans"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSans\\InputSans-ExtraLight.ttf",
+            "name": "InputSans-ExtraLight",
+            "subdirectory": "InputSans"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSans\\InputSans-ExtraLightItalic.ttf",
+            "name": "InputSans-ExtraLightItalic",
+            "subdirectory": "InputSans"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSans\\InputSans-Italic.ttf",
+            "name": "InputSans-Italic",
+            "subdirectory": "InputSans"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSans\\InputSans-Light.ttf",
+            "name": "InputSans-Light",
+            "subdirectory": "InputSans"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSans\\InputSans-LightItalic.ttf",
+            "name": "InputSans-LightItalic",
+            "subdirectory": "InputSans"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSans\\InputSans-Medium.ttf",
+            "name": "InputSans-Medium",
+            "subdirectory": "InputSans"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSans\\InputSans-MediumItalic.ttf",
+            "name": "InputSans-MediumItalic",
+            "subdirectory": "InputSans"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSans\\InputSans-Regular.ttf",
+            "name": "InputSans-Regular",
+            "subdirectory": "InputSans"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSans\\InputSans-Thin.ttf",
+            "name": "InputSans-Thin",
+            "subdirectory": "InputSans"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSans\\InputSans-ThinItalic.ttf",
+            "name": "InputSans-ThinItalic",
+            "subdirectory": "InputSans"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansCompressed\\InputSansCompressed-Black.ttf",
+            "name": "InputSansCompressed-Black",
+            "subdirectory": "InputSansCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansCompressed\\InputSansCompressed-BlackItalic.ttf",
+            "name": "InputSansCompressed-BlackItalic",
+            "subdirectory": "InputSansCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansCompressed\\InputSansCompressed-Bold.ttf",
+            "name": "InputSansCompressed-Bold",
+            "subdirectory": "InputSansCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansCompressed\\InputSansCompressed-BoldItalic.ttf",
+            "name": "InputSansCompressed-BoldItalic",
+            "subdirectory": "InputSansCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansCompressed\\InputSansCompressed-ExtraLight.ttf",
+            "name": "InputSansCompressed-ExtraLight",
+            "subdirectory": "InputSansCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansCompressed\\InputSansCompressed-ExtraLightItalic.ttf",
+            "name": "InputSansCompressed-ExtraLightItalic",
+            "subdirectory": "InputSansCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansCompressed\\InputSansCompressed-Italic.ttf",
+            "name": "InputSansCompressed-Italic",
+            "subdirectory": "InputSansCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansCompressed\\InputSansCompressed-Light.ttf",
+            "name": "InputSansCompressed-Light",
+            "subdirectory": "InputSansCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansCompressed\\InputSansCompressed-LightItalic.ttf",
+            "name": "InputSansCompressed-LightItalic",
+            "subdirectory": "InputSansCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansCompressed\\InputSansCompressed-Medium.ttf",
+            "name": "InputSansCompressed-Medium",
+            "subdirectory": "InputSansCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansCompressed\\InputSansCompressed-MediumItalic.ttf",
+            "name": "InputSansCompressed-MediumItalic",
+            "subdirectory": "InputSansCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansCompressed\\InputSansCompressed-Regular.ttf",
+            "name": "InputSansCompressed-Regular",
+            "subdirectory": "InputSansCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansCompressed\\InputSansCompressed-Thin.ttf",
+            "name": "InputSansCompressed-Thin",
+            "subdirectory": "InputSansCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansCompressed\\InputSansCompressed-ThinItalic.ttf",
+            "name": "InputSansCompressed-ThinItalic",
+            "subdirectory": "InputSansCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansCondensed\\InputSansCondensed-Black.ttf",
+            "name": "InputSansCondensed-Black",
+            "subdirectory": "InputSansCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansCondensed\\InputSansCondensed-BlackItalic.ttf",
+            "name": "InputSansCondensed-BlackItalic",
+            "subdirectory": "InputSansCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansCondensed\\InputSansCondensed-Bold.ttf",
+            "name": "InputSansCondensed-Bold",
+            "subdirectory": "InputSansCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansCondensed\\InputSansCondensed-BoldItalic.ttf",
+            "name": "InputSansCondensed-BoldItalic",
+            "subdirectory": "InputSansCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansCondensed\\InputSansCondensed-ExtraLight.ttf",
+            "name": "InputSansCondensed-ExtraLight",
+            "subdirectory": "InputSansCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansCondensed\\InputSansCondensed-ExtraLightItalic.ttf",
+            "name": "InputSansCondensed-ExtraLightItalic",
+            "subdirectory": "InputSansCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansCondensed\\InputSansCondensed-Italic.ttf",
+            "name": "InputSansCondensed-Italic",
+            "subdirectory": "InputSansCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansCondensed\\InputSansCondensed-Light.ttf",
+            "name": "InputSansCondensed-Light",
+            "subdirectory": "InputSansCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansCondensed\\InputSansCondensed-LightItalic.ttf",
+            "name": "InputSansCondensed-LightItalic",
+            "subdirectory": "InputSansCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansCondensed\\InputSansCondensed-Medium.ttf",
+            "name": "InputSansCondensed-Medium",
+            "subdirectory": "InputSansCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansCondensed\\InputSansCondensed-MediumItalic.ttf",
+            "name": "InputSansCondensed-MediumItalic",
+            "subdirectory": "InputSansCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansCondensed\\InputSansCondensed-Regular.ttf",
+            "name": "InputSansCondensed-Regular",
+            "subdirectory": "InputSansCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansCondensed\\InputSansCondensed-Thin.ttf",
+            "name": "InputSansCondensed-Thin",
+            "subdirectory": "InputSansCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansCondensed\\InputSansCondensed-ThinItalic.ttf",
+            "name": "InputSansCondensed-ThinItalic",
+            "subdirectory": "InputSansCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansNarrow\\InputSansNarrow-Black.ttf",
+            "name": "InputSansNarrow-Black",
+            "subdirectory": "InputSansNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansNarrow\\InputSansNarrow-BlackItalic.ttf",
+            "name": "InputSansNarrow-BlackItalic",
+            "subdirectory": "InputSansNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansNarrow\\InputSansNarrow-Bold.ttf",
+            "name": "InputSansNarrow-Bold",
+            "subdirectory": "InputSansNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansNarrow\\InputSansNarrow-BoldItalic.ttf",
+            "name": "InputSansNarrow-BoldItalic",
+            "subdirectory": "InputSansNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansNarrow\\InputSansNarrow-ExtraLight.ttf",
+            "name": "InputSansNarrow-ExtraLight",
+            "subdirectory": "InputSansNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansNarrow\\InputSansNarrow-ExtraLightItalic.ttf",
+            "name": "InputSansNarrow-ExtraLightItalic",
+            "subdirectory": "InputSansNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansNarrow\\InputSansNarrow-Italic.ttf",
+            "name": "InputSansNarrow-Italic",
+            "subdirectory": "InputSansNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansNarrow\\InputSansNarrow-Light.ttf",
+            "name": "InputSansNarrow-Light",
+            "subdirectory": "InputSansNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansNarrow\\InputSansNarrow-LightItalic.ttf",
+            "name": "InputSansNarrow-LightItalic",
+            "subdirectory": "InputSansNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansNarrow\\InputSansNarrow-Medium.ttf",
+            "name": "InputSansNarrow-Medium",
+            "subdirectory": "InputSansNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansNarrow\\InputSansNarrow-MediumItalic.ttf",
+            "name": "InputSansNarrow-MediumItalic",
+            "subdirectory": "InputSansNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansNarrow\\InputSansNarrow-Regular.ttf",
+            "name": "InputSansNarrow-Regular",
+            "subdirectory": "InputSansNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansNarrow\\InputSansNarrow-Thin.ttf",
+            "name": "InputSansNarrow-Thin",
+            "subdirectory": "InputSansNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansNarrow\\InputSansNarrow-ThinItalic.ttf",
+            "name": "InputSansNarrow-ThinItalic",
+            "subdirectory": "InputSansNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerif\\InputSerif-Black.ttf",
+            "name": "InputSerif-Black",
+            "subdirectory": "InputSerif"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerif\\InputSerif-BlackItalic.ttf",
+            "name": "InputSerif-BlackItalic",
+            "subdirectory": "InputSerif"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerif\\InputSerif-Bold.ttf",
+            "name": "InputSerif-Bold",
+            "subdirectory": "InputSerif"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerif\\InputSerif-BoldItalic.ttf",
+            "name": "InputSerif-BoldItalic",
+            "subdirectory": "InputSerif"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerif\\InputSerif-ExtraLight.ttf",
+            "name": "InputSerif-ExtraLight",
+            "subdirectory": "InputSerif"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerif\\InputSerif-ExtraLightItalic.ttf",
+            "name": "InputSerif-ExtraLightItalic",
+            "subdirectory": "InputSerif"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerif\\InputSerif-Italic.ttf",
+            "name": "InputSerif-Italic",
+            "subdirectory": "InputSerif"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerif\\InputSerif-Light.ttf",
+            "name": "InputSerif-Light",
+            "subdirectory": "InputSerif"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerif\\InputSerif-LightItalic.ttf",
+            "name": "InputSerif-LightItalic",
+            "subdirectory": "InputSerif"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerif\\InputSerif-Medium.ttf",
+            "name": "InputSerif-Medium",
+            "subdirectory": "InputSerif"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerif\\InputSerif-MediumItalic.ttf",
+            "name": "InputSerif-MediumItalic",
+            "subdirectory": "InputSerif"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerif\\InputSerif-Regular.ttf",
+            "name": "InputSerif-Regular",
+            "subdirectory": "InputSerif"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerif\\InputSerif-Thin.ttf",
+            "name": "InputSerif-Thin",
+            "subdirectory": "InputSerif"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerif\\InputSerif-ThinItalic.ttf",
+            "name": "InputSerif-ThinItalic",
+            "subdirectory": "InputSerif"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifCompressed\\InputSerifCompressed-Black.ttf",
+            "name": "InputSerifCompressed-Black",
+            "subdirectory": "InputSerifCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifCompressed\\InputSerifCompressed-BlackItalic.ttf",
+            "name": "InputSerifCompressed-BlackItalic",
+            "subdirectory": "InputSerifCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifCompressed\\InputSerifCompressed-Bold.ttf",
+            "name": "InputSerifCompressed-Bold",
+            "subdirectory": "InputSerifCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifCompressed\\InputSerifCompressed-BoldItalic.ttf",
+            "name": "InputSerifCompressed-BoldItalic",
+            "subdirectory": "InputSerifCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifCompressed\\InputSerifCompressed-ExtraLight.ttf",
+            "name": "InputSerifCompressed-ExtraLight",
+            "subdirectory": "InputSerifCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifCompressed\\InputSerifCompressed-ExtraLightItalic.ttf",
+            "name": "InputSerifCompressed-ExtraLightItalic",
+            "subdirectory": "InputSerifCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifCompressed\\InputSerifCompressed-Italic.ttf",
+            "name": "InputSerifCompressed-Italic",
+            "subdirectory": "InputSerifCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifCompressed\\InputSerifCompressed-Light.ttf",
+            "name": "InputSerifCompressed-Light",
+            "subdirectory": "InputSerifCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifCompressed\\InputSerifCompressed-LightItalic.ttf",
+            "name": "InputSerifCompressed-LightItalic",
+            "subdirectory": "InputSerifCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifCompressed\\InputSerifCompressed-Medium.ttf",
+            "name": "InputSerifCompressed-Medium",
+            "subdirectory": "InputSerifCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifCompressed\\InputSerifCompressed-MediumItalic.ttf",
+            "name": "InputSerifCompressed-MediumItalic",
+            "subdirectory": "InputSerifCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifCompressed\\InputSerifCompressed-Regular.ttf",
+            "name": "InputSerifCompressed-Regular",
+            "subdirectory": "InputSerifCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifCompressed\\InputSerifCompressed-Thin.ttf",
+            "name": "InputSerifCompressed-Thin",
+            "subdirectory": "InputSerifCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifCompressed\\InputSerifCompressed-ThinItalic.ttf",
+            "name": "InputSerifCompressed-ThinItalic",
+            "subdirectory": "InputSerifCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifCondensed\\InputSerifCondensed-Black.ttf",
+            "name": "InputSerifCondensed-Black",
+            "subdirectory": "InputSerifCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifCondensed\\InputSerifCondensed-BlackItalic.ttf",
+            "name": "InputSerifCondensed-BlackItalic",
+            "subdirectory": "InputSerifCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifCondensed\\InputSerifCondensed-Bold.ttf",
+            "name": "InputSerifCondensed-Bold",
+            "subdirectory": "InputSerifCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifCondensed\\InputSerifCondensed-BoldItalic.ttf",
+            "name": "InputSerifCondensed-BoldItalic",
+            "subdirectory": "InputSerifCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifCondensed\\InputSerifCondensed-ExtraLight.ttf",
+            "name": "InputSerifCondensed-ExtraLight",
+            "subdirectory": "InputSerifCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifCondensed\\InputSerifCondensed-ExtraLightItalic.ttf",
+            "name": "InputSerifCondensed-ExtraLightItalic",
+            "subdirectory": "InputSerifCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifCondensed\\InputSerifCondensed-Italic.ttf",
+            "name": "InputSerifCondensed-Italic",
+            "subdirectory": "InputSerifCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifCondensed\\InputSerifCondensed-Light.ttf",
+            "name": "InputSerifCondensed-Light",
+            "subdirectory": "InputSerifCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifCondensed\\InputSerifCondensed-LightItalic.ttf",
+            "name": "InputSerifCondensed-LightItalic",
+            "subdirectory": "InputSerifCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifCondensed\\InputSerifCondensed-Medium.ttf",
+            "name": "InputSerifCondensed-Medium",
+            "subdirectory": "InputSerifCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifCondensed\\InputSerifCondensed-MediumItalic.ttf",
+            "name": "InputSerifCondensed-MediumItalic",
+            "subdirectory": "InputSerifCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifCondensed\\InputSerifCondensed-Regular.ttf",
+            "name": "InputSerifCondensed-Regular",
+            "subdirectory": "InputSerifCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifCondensed\\InputSerifCondensed-Thin.ttf",
+            "name": "InputSerifCondensed-Thin",
+            "subdirectory": "InputSerifCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifCondensed\\InputSerifCondensed-ThinItalic.ttf",
+            "name": "InputSerifCondensed-ThinItalic",
+            "subdirectory": "InputSerifCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifNarrow\\InputSerifNarrow-Black.ttf",
+            "name": "InputSerifNarrow-Black",
+            "subdirectory": "InputSerifNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifNarrow\\InputSerifNarrow-BlackItalic.ttf",
+            "name": "InputSerifNarrow-BlackItalic",
+            "subdirectory": "InputSerifNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifNarrow\\InputSerifNarrow-Bold.ttf",
+            "name": "InputSerifNarrow-Bold",
+            "subdirectory": "InputSerifNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifNarrow\\InputSerifNarrow-BoldItalic.ttf",
+            "name": "InputSerifNarrow-BoldItalic",
+            "subdirectory": "InputSerifNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifNarrow\\InputSerifNarrow-ExtraLight.ttf",
+            "name": "InputSerifNarrow-ExtraLight",
+            "subdirectory": "InputSerifNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifNarrow\\InputSerifNarrow-ExtraLightItalic.ttf",
+            "name": "InputSerifNarrow-ExtraLightItalic",
+            "subdirectory": "InputSerifNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifNarrow\\InputSerifNarrow-Italic.ttf",
+            "name": "InputSerifNarrow-Italic",
+            "subdirectory": "InputSerifNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifNarrow\\InputSerifNarrow-Light.ttf",
+            "name": "InputSerifNarrow-Light",
+            "subdirectory": "InputSerifNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifNarrow\\InputSerifNarrow-LightItalic.ttf",
+            "name": "InputSerifNarrow-LightItalic",
+            "subdirectory": "InputSerifNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifNarrow\\InputSerifNarrow-Medium.ttf",
+            "name": "InputSerifNarrow-Medium",
+            "subdirectory": "InputSerifNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifNarrow\\InputSerifNarrow-MediumItalic.ttf",
+            "name": "InputSerifNarrow-MediumItalic",
+            "subdirectory": "InputSerifNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifNarrow\\InputSerifNarrow-Regular.ttf",
+            "name": "InputSerifNarrow-Regular",
+            "subdirectory": "InputSerifNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifNarrow\\InputSerifNarrow-Thin.ttf",
+            "name": "InputSerifNarrow-Thin",
+            "subdirectory": "InputSerifNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifNarrow\\InputSerifNarrow-ThinItalic.ttf",
+            "name": "InputSerifNarrow-ThinItalic",
+            "subdirectory": "InputSerifNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Quicksand\\Quicksand Bold Oblique.otf",
+            "name": "QuicksandBoldOblique-Regular",
+            "subdirectory": "Quicksand"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Quicksand\\Quicksand Bold.otf",
+            "name": "QuicksandBold-Regular",
+            "subdirectory": "Quicksand"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Quicksand\\Quicksand Book Oblique.otf",
+            "name": "QuicksandBookOblique-Regular",
+            "subdirectory": "Quicksand"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Quicksand\\Quicksand Book.otf",
+            "name": "QuicksandBook-Regular",
+            "subdirectory": "Quicksand"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Quicksand\\Quicksand Dash.otf",
+            "name": "QuicksandDash-Regular",
+            "subdirectory": "Quicksand"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Quicksand\\Quicksand Light Oblique.otf",
+            "name": "QuicksandLightOblique-Regular",
+            "subdirectory": "Quicksand"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Quicksand\\Quicksand Light.otf",
+            "name": "QuicksandLight-Regular",
+            "subdirectory": "Quicksand"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\futura-normal_[allfont.net].ttf",
+            "name": "Futura-Normal",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\lobster_[allfont.ru].ttf",
+            "name": "Lobster",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\SF-UI-Display-Black.otf",
+            "name": "SFUIDisplay-Black",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\SF-UI-Display-Black.ttf",
+            "name": "SFUIDisplay-Black",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\SF-UI-Display-Bold.otf",
+            "name": "SFUIDisplay-Bold",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\SF-UI-Display-Bold.ttf",
+            "name": "SFUIDisplay-Bold",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\SF-UI-Display-Heavy.otf",
+            "name": "SFUIDisplay-Heavy",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\SF-UI-Display-Heavy.ttf",
+            "name": "SFUIDisplay-Heavy",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\SF-UI-Display-Light.otf",
+            "name": "SFUIDisplay-Light",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\SF-UI-Display-Light.ttf",
+            "name": "SFUIDisplay-Light",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\SF-UI-Display-Medium.otf",
+            "name": "SFUIDisplay-Medium",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\SF-UI-Display-Medium.ttf",
+            "name": "SFUIDisplay-Medium",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\SF-UI-Display-Regular.otf",
+            "name": "SFUIDisplay-Regular",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\SF-UI-Display-Regular.ttf",
+            "name": "SFUIDisplay-Regular",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\SF-UI-Display-Semibold.otf",
+            "name": "SFUIDisplay-Semibold",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\SF-UI-Display-Semibold.ttf",
+            "name": "SFUIDisplay-Semibold",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\SF-UI-Display-Thin.otf",
+            "name": "SFUIDisplay-Thin",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\SF-UI-Display-Thin.ttf",
+            "name": "SFUIDisplay-Thin",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\SF-UI-Display-Ultralight.otf",
+            "name": "SFUIDisplay-Ultralight",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\SF-UI-Display-Ultralight.ttf",
+            "name": "SFUIDisplay-Ultralight",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\SF-UI-Text-Bold.otf",
+            "name": "SFUIText-Bold",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\SF-UI-Text-Bold.ttf",
+            "name": "SFUIText-Bold",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\SF-UI-Text-BoldItalic.otf",
+            "name": "SFUIText-BoldItalic",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\SF-UI-Text-BoldItalic.ttf",
+            "name": "SFUIText-BoldItalic",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\SF-UI-Text-Heavy.otf",
+            "name": "SFUIText-Heavy",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\SF-UI-Text-Heavy.ttf",
+            "name": "SFUIText-Heavy",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\SF-UI-Text-HeavyItalic.otf",
+            "name": "SFUIText-HeavyItalic",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\SF-UI-Text-HeavyItalic.ttf",
+            "name": "SFUIText-HeavyItalic",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\SF-UI-Text-Italic.otf",
+            "name": "SFUIText-Italic",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\SF-UI-Text-Italic.ttf",
+            "name": "SFUIText-Italic",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\SF-UI-Text-Light.otf",
+            "name": "SFUIText-Light",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\SF-UI-Text-Light.ttf",
+            "name": "SFUIText-Light",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\SF-UI-Text-LightItalic.otf",
+            "name": "SFUIText-LightItalic",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\SF-UI-Text-LightItalic.ttf",
+            "name": "SFUIText-LightItalic",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\SF-UI-Text-Medium.otf",
+            "name": "SFUIText-Medium",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\SF-UI-Text-Medium.ttf",
+            "name": "SFUIText-Medium",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\SF-UI-Text-MediumItalic.otf",
+            "name": "SFUIText-MediumItalic",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\SF-UI-Text-MediumItalic.ttf",
+            "name": "SFUIText-MediumItalic",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\SF-UI-Text-Regular.otf",
+            "name": "SFUIText-Regular",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\SF-UI-Text-Regular.ttf",
+            "name": "SFUIText-Regular",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\SF-UI-Text-Semibold.otf",
+            "name": "SFUIText-Semibold",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\SF-UI-Text-Semibold.ttf",
+            "name": "SFUIText-Semibold",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\SF-UI-Text-SemiboldItalic.otf",
+            "name": "SFUIText-SemiboldItalic",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco\\SF-UI-Text-SemiboldItalic.ttf",
+            "name": "SFUIText-SemiboldItalic",
+            "subdirectory": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBComp-Black.otf",
+            "name": "TitlingGothicFBComp-Black",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBComp-Bold.otf",
+            "name": "TitlingGothicFBComp-Bold",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBComp-Light.otf",
+            "name": "TitlingGothicFBComp-Light",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBComp-Med.otf",
+            "name": "TitlingGothicFBComp-Medium",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBComp-Reg.otf",
+            "name": "TitlingGothicFBComp-Regular",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBComp-Stand.otf",
+            "name": "TitlingGothicFBComp-Standard",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBComp-Thin.otf",
+            "name": "TitlingGothicFBComp-Thin",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBCond-Black.otf",
+            "name": "TitlingGothicFBCond-Black",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBCond-Bold.otf",
+            "name": "TitlingGothicFBCond-Bold",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBCond-Light.otf",
+            "name": "TitlingGothicFBCond-Light",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBCond-Med.otf",
+            "name": "TitlingGothicFBCond-Medium",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBCond-Reg.otf",
+            "name": "TitlingGothicFBCond-Regular",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBCond-Stand.otf",
+            "name": "TitlingGothicFBCond-Standard",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBCond-Thin.otf",
+            "name": "TitlingGothicFBCond-Thin",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBExt-Black.otf",
+            "name": "TitlingGothicFBExtended-Black",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBExt-Bold.otf",
+            "name": "TitlingGothicFBExtended-Bold",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBExt-Light.otf",
+            "name": "TitlingGothicFBExtended-Light",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBExt-Med.otf",
+            "name": "TitlingGothicFBExtended-Medium",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBExt-Reg.otf",
+            "name": "TitlingGothicFBExtended-Regular",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBExt-Stand.otf",
+            "name": "TitlingGothicFBExtended-Stand",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBExt-Thin.otf",
+            "name": "TitlingGothicFBExtended-Thin",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBNar-Black.otf",
+            "name": "TitlingGothicFBNarrow-Black",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBNar-Bold.otf",
+            "name": "TitlingGothicFBNarrow-Bold",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBNar-Light.otf",
+            "name": "TitlingGothicFBNarrow-Light",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBNar-Med.otf",
+            "name": "TitlingGothicFBNarrow-Medium",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBNar-Reg.otf",
+            "name": "TitlingGothicFBNarrow-Regular",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBNar-Stand.otf",
+            "name": "TitlingGothicFBNarrow-Standard",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBNar-Thin.otf",
+            "name": "TitlingGothicFBNarrow-Thin",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBNor-Black.otf",
+            "name": "TitlingGothicFBNormal-Black",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBNor-Bold.otf",
+            "name": "TitlingGothicFBNormal-Bold",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBNor-Light.otf",
+            "name": "TitlingGothicFBNormal-Light",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBNor-Med.otf",
+            "name": "TitlingGothicFBNormal-Medium",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBNor-Reg.otf",
+            "name": "TitlingGothicFBNormal-Regular",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBNor-Stand.otf",
+            "name": "TitlingGothicFBNormal-Standard",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBNor-Thin.otf",
+            "name": "TitlingGothicFBNormal-Thin",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBSky-Black.otf",
+            "name": "TitlingGothicFBSkyline-Black",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBSky-Bold.otf",
+            "name": "TitlingGothicFBSkyline-Bold",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBSky-Light.otf",
+            "name": "TitlingGothicFBSkyline-Light",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBSky-Med.otf",
+            "name": "TitlingGothicFBSkyline-Medium",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBSky-Reg.otf",
+            "name": "TitlingGothicFBSkyline-Regular",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBSky-Stand.otf",
+            "name": "TitlingGothicFBSkyline-Standard",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBSky-Thin.otf",
+            "name": "TitlingGothicFBSkyline-Thin",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBWide-Black.otf",
+            "name": "TitlingGothicFBWide-Black",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBWide-Bold.otf",
+            "name": "TitlingGothicFBWide-Bold",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBWide-Light.otf",
+            "name": "TitlingGothicFBWide-Light",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBWide-Med.otf",
+            "name": "TitlingGothicFBWide-Medium",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBWide-Reg.otf",
+            "name": "TitlingGothicFBWide-Regular",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBWide-Stand.otf",
+            "name": "TitlingGothicFBWide-Standard",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB\\TitlingGothicFBWide-Thin.otf",
+            "name": "TitlingGothicFBWide-Thin",
+            "subdirectory": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\uni_sans\\uni_sans_heavy.ttf",
+            "name": "UniSansHeavyCaps",
+            "subdirectory": "uni_sans"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\uni_sans\\uni_sans_heavy_italic.ttf",
+            "name": "UniSansHeavyCapsItalic",
+            "subdirectory": "uni_sans"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\uni_sans\\uni_sans_thin.ttf",
+            "name": "UniSansThinCaps",
+            "subdirectory": "uni_sans"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\uni_sans\\uni_sans_thin_italic.ttf",
+            "name": "UniSansThinCapsItalic",
+            "subdirectory": "uni_sans"
+        }
+    ],
+    "size": 50739941,
+    "subdirectories": [
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts",
+            "name": "Fonts"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\AGOpt",
+            "name": "AGOpt"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\AGSou",
+            "name": "AGSou"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Bender",
+            "name": "Bender"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Blogger_Sans",
+            "name": "Blogger_Sans"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cartog",
+            "name": "Cartog"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cocomat",
+            "name": "Cocomat"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Cyrillic",
+            "name": "Cyrillic"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\FreeSet",
+            "name": "FreeSet"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Futuris",
+            "name": "Futuris"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\gobold",
+            "name": "gobold"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\gogoia",
+            "name": "gogoia"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMono",
+            "name": "InputMono"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoCompressed",
+            "name": "InputMonoCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoCondensed",
+            "name": "InputMonoCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputMono\\InputMonoNarrow",
+            "name": "InputMonoNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSans",
+            "name": "InputSans"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansCompressed",
+            "name": "InputSansCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansCondensed",
+            "name": "InputSansCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSans\\InputSansNarrow",
+            "name": "InputSansNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerif",
+            "name": "InputSerif"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifCompressed",
+            "name": "InputSerifCompressed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifCondensed",
+            "name": "InputSerifCondensed"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\InputSerif\\InputSerifNarrow",
+            "name": "InputSerifNarrow"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Quicksand",
+            "name": "Quicksand"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\SanFrancisco",
+            "name": "SanFrancisco"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\Titling_Gothic_FB",
+            "name": "Titling_Gothic_FB"
+        },
+        {
+            "filepath": "C:\\Users\\maiw\\Fonts\\uni_sans",
+            "name": "uni_sans"
+        }
+    ]
+}

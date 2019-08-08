@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run]
+"Rainmeter"="\"D:\\Programs\\Rainmeter\\Rainmeter.exe\""
+"StartIsGone"="D:\\Programs\\WinTweaks\\StartIsGone.exe"
+"TranslucentTB"="C:\\Program Files (x86)\\TranslucentTB\\TranslucentTB.exe"

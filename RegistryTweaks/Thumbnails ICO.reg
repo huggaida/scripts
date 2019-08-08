@@ -1,0 +1,16 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\.ico]
+"Content Type"="image/x-icon"
+@="icofile"
+"PerceivedType"="image"
+
+[HKEY_CLASSES_ROOT\.ico\PersistentHandler]
+@="{098f2470-bae0-11cd-b579-08002b30bfeb}"
+
+[HKEY_CLASSES_ROOT\icofile]
+@="Icon"
+"ImageOptionFlags"=dword:00000000
+
+[HKEY_CLASSES_ROOT\icofile\DefaultIcon]
+@="%1"

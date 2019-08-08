@@ -1,0 +1,136 @@
+{
+  "operators": [
+    {
+      "name": "MESH_OT_fill_grid", 
+      "props": [
+        {
+          "data": "span", 
+          "group": "", 
+          "hotkey": "PRESS:ctrl+NONE", 
+          "step": 1.0
+        }, 
+        {
+          "data": "offset", 
+          "group": "", 
+          "hotkey": "PRESS:shift+NONE", 
+          "step": 1.0
+        }
+      ], 
+      "skip": 0
+    }, 
+    {
+      "name": "MESH_OT_dissolve_limited", 
+      "props": [
+        {
+          "data": "angle_limit", 
+          "group": "", 
+          "hotkey": "PRESS:ctrl+NONE", 
+          "step": 0.0872664600610733
+        }, 
+        {
+          "data": "use_dissolve_boundaries", 
+          "group": "", 
+          "hotkey": "PRESS:shift+NONE", 
+          "step": 1.0
+        }
+      ], 
+      "skip": 0
+    }, 
+    {
+      "name": "MESH_OT_normals_make_consistent", 
+      "props": [
+        {
+          "data": "inside", 
+          "group": "", 
+          "hotkey": "PRESS:ctrl+NONE", 
+          "step": 0.0
+        }
+      ], 
+      "skip": 0
+    }, 
+    {
+      "name": "MESH_OT_remove_doubles", 
+      "props": [
+        {
+          "data": "threshold", 
+          "group": "", 
+          "hotkey": "PRESS:ctrl+NONE", 
+          "step": 0.05000000074505806
+        }
+      ], 
+      "skip": 0
+    }, 
+    {
+      "name": "MESH_OT_vertices_smooth", 
+      "props": [
+        {
+          "data": "factor", 
+          "group": "", 
+          "hotkey": "PRESS:ctrl+NONE", 
+          "step": 0.05000000074505806
+        }, 
+        {
+          "data": "repeat", 
+          "group": "", 
+          "hotkey": "PRESS:shift+NONE", 
+          "step": 1.0
+        }
+      ], 
+      "skip": 0
+    }, 
+    {
+      "name": "MESH_OT_spin", 
+      "props": [
+        {
+          "data": "steps", 
+          "group": "", 
+          "hotkey": "PRESS:ctrl+NONE", 
+          "step": 1.0
+        }, 
+        {
+          "data": "angle", 
+          "group": "", 
+          "hotkey": "PRESS:shift+NONE", 
+          "step": 0.0872664600610733
+        }
+      ], 
+      "skip": 0
+    }, 
+    {
+      "name": "MESH_OT_subdivide", 
+      "props": [
+        {
+          "data": "number_cuts", 
+          "group": "", 
+          "hotkey": "PRESS:ctrl+NONE", 
+          "step": 1.0
+        }, 
+        {
+          "data": "smoothness", 
+          "group": "", 
+          "hotkey": "PRESS:shift+NONE", 
+          "step": 0.10000000149011612
+        }
+      ], 
+      "skip": false
+    }, 
+    {
+      "name": "UV_OT_pack_islands", 
+      "props": [
+        {
+          "data": "margin", 
+          "group": "", 
+          "hotkey": "PRESS:ctrl+NONE", 
+          "step": 0.10000000149011612
+        }, 
+        {
+          "data": "rotate", 
+          "group": "", 
+          "hotkey": "PRESS:shift+NONE", 
+          "step": 1.0
+        }
+      ], 
+      "skip": 0
+    }
+  ]
+}
